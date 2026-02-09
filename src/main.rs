@@ -3,6 +3,7 @@ use calc_lib::{add, divide, multiply, power, subtract};
 fn main() {
     let a = 12;
     let b = 6;
+    let r = 20;
 
     let sum = add(a, b);
     let difference = subtract(a, b);
