@@ -4,9 +4,7 @@ fn main() {
     let a = 12;
     let b = 6;
     let r = 20;
-
-    let
-    
+   
     let sum = add(a, b);
     let difference = subtract(a, b);
     let product = multiply(a, b);
